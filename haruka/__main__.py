@@ -20,15 +20,15 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, My name is // FLASH //!
+PM_START = """Hello {}, My name is // GAITONDE //!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
 I'm group Manager Bot 
 
-Made with love by @TODAYSHACKER
+Made with love by @SACHIN_6712
 
-Join [FLASH BOT SUPPORT](https://t.me/flashbotsupport) If you need any Support or Help. 
+[JOIN MY CHANNEL](https://t.me/HACKERS_SPAC3) Daily Premium Account Open Giveaways. 
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
