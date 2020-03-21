@@ -26,9 +26,9 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 
 I'm group Manager Bot 
 
-Made with love by @SACHIN_6712
+Made with love by [ @SACHIN_6712 ]
 
-[JOIN MY CHANNEL](https://t.me/HACKERS_SPAC3) ForDaily Premium Account Open Giveaways. 
+Join my Channel [ @HACKERS_SPAC3 ] For Daily Premium Account Open Giveaways. 
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
