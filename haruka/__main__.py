@@ -28,7 +28,7 @@ I'm group Manager Bot
 
 Made with love by @SACHIN_6712
 
-[JOIN MY CHANNEL](https://t.me/HACKERS_SPAC3) Daily Premium Account Open Giveaways. 
+[JOIN MY CHANNEL](https://t.me/HACKERS_SPAC3) ForDaily Premium Account Open Giveaways. 
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
